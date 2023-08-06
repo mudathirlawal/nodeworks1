@@ -1,24 +1,24 @@
 {
-    "name": "alt_engine1",
-    "version": "1.0.0",
-    "description": "Just playing with node modules; nothing special.",
-    "main": "app.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node app.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mudathirlawal/nodeworks1.git"
-    },
-    "keywords": [
-      "node",
-      "modules"
-    ],
-    "author": "Mudathir Lawal",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mudathirlawal/nodeworks1/issues"
-    },
-    "homepage": "https://github.com/mudathirlawal/nodeworks1#readme"
-  }
+  "name": "alt_engine1",
+  "version": "1.0.0",
+  "description": "Just playing with node modules; nothing special.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudathirlawal/nodeworks1.git"
+  },
+  "keywords": [
+    "node",
+    "modules"
+  ],
+  "author": "Mudathir Lawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mudathirlawal/nodeworks1/issues"
+  },
+  "homepage": "https://github.com/mudathirlawal/nodeworks1#readme"
+}
